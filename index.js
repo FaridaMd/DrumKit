@@ -50,7 +50,8 @@ for(i=0;i<addButton;i++)
                 kick.play();
                 // alert("this is l");
                 break;
-      default:  alert("default");
+      default:console.log("default");  
+        //alert("default");
                 break;
     }
   }
